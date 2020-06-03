@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "This is a test for the blogging function"
+
+---
+
+# test test
+
+this is a test for blogging function
